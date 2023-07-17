@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤝, I'm Anirban Sengupta</h1>
 <h3 align="center">from India. I am currently a 3rd Year student pursuing B.Tech from SRM University.</h3>
 
-<img align=“right” alt=“coding” width=“400” src=“https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg”>
+<img align=“right” alt=“coding” width=“400” src=“https://raw.githubusercontent.com/anirbansengupta07/anirbansengupta07/main/Screenshot%202023-07-18%20at%2012.48.35%20AM.png”>
 
 - 🔭 I’m currently working on [Flutter projects](https://github.com/anirbansengupta07/dice)
 
