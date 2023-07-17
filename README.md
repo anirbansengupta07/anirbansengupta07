@@ -14,6 +14,8 @@
 - 📫 How to reach me <a href="https://twitter.com/@anirbansengupta07">My Twitter</a> :  <a href="https://linkedin.com/in/anirban-sengupta-4b2804237/](https://www.linkedin.com/in/anirban-sengupta-4b2804237/)">My LinkedIn </a>  :   <a href="https://instagram.com/anirbansenguptaa/">My Instagram </a> 
 - ⚡ Fun fact **I travel a lot**
 
+  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=anirbansengupta07&show_icons=true&theme=dark) 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anirban80705355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anirban80705355" height="30" width="40" /></a>
